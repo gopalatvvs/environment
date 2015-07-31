@@ -1,4 +1,4 @@
 class helloworld {
-	notify {"Hello wordl!": }
+	notify {"Hello wordl!": message => "I am in the production environment"}
 
 }
